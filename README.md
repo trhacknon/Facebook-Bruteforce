@@ -18,9 +18,9 @@ Bruteforce attack, For educational purpose only
 ```
 
 ## Screenshots
-![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/master/Capture1.JPG)
-![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/master/Capture2.JPG)
-![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/master/Capture3.JPG)
+![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/main/Capture1.JPG)
+![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/main/Capture2.JPG)
+![CAPTURE 1](https://github.com/trhacknon/Facebook-Bruteforce/blob/main/Capture3.JPG)
 
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
